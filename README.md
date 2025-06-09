@@ -34,5 +34,5 @@ Ele busca automaticamente os seguintes dados:
 
 Os resultados são exibidos de forma organizada em uma tabela no terminal.
 
-Exemplo de uso real do programa com 3 ações brasileiras:
+Exemplo de uso real do programa com 2 ações brasileiras: https://colab.research.google.com/drive/1mTGTkDIMWM0tIwgqu5UZDkdtpLEMMss1?usp=sharing
 ![image](https://github.com/user-attachments/assets/d1ea9d12-7024-46bb-852a-d40c7b99756e)
